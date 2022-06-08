@@ -1,0 +1,105 @@
+*{
+    margin: 0px;
+}
+.all{
+    background-color: #FFA500;
+    width: 30%;
+    margin: auto;
+    margin-top: 25px;
+
+}
+.head {
+    display: flex;
+    justify-content: space-between;
+}
+.date{
+    margin-top: 25px;
+    margin-left: 25px;
+}
+.image{
+    width: 50px;
+    height: 50px;
+    margin-top: 20px;
+    margin-right: 25px;
+    border-radius: 50%;
+}
+
+.case{
+    background-color: black;
+    color: white;
+    margin-left: 25px;
+}
+
+.title{
+    margin-left: 25px;
+    margin-top: 10px;
+}
+
+.method{
+    margin-left: 25px;
+    margin-top: 10px;
+}
+
+
+.mode{
+    margin-left: 25px;
+    margin-bottom: 25px;
+}
+.arrow{
+    margin-right: 25px;
+    margin-bottom: 25px;
+}
+
+
+
+
+
+
+.apple_all{
+    background-color: #F5F5F5;
+    width: 30%;
+    margin: auto;
+    margin-top: 25px;
+
+}
+.apple_head {
+    display: flex;
+    justify-content: space-between;
+}
+.apple_date{
+    margin-top: 25px;
+    margin-left: 25px;
+}
+.apple_image{
+    width: 100px;
+    height: 50px;
+    margin-top: 25px;
+    margin-right: 25px;
+    border-radius: 50%;
+}
+
+.apple_case{
+    background-color: black;
+    color: white;
+    margin-left: 25px;
+}
+
+.apple_title{
+    margin-left: 25px;
+    margin-top: 10px;
+}
+
+.apple_method{
+    margin-left: 25px;
+    margin-top: 10px;
+}
+
+
+.apple_mode{
+    margin-left: 25px;
+    margin-bottom: 25px;
+}
+.apple_arrow{
+    margin-right: 25px;
+    margin-bottom: 25px;
+}
